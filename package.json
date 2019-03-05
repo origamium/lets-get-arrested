@@ -4,7 +4,8 @@
   "description": "In Japan, a schoolgirl was caught by the police for writing an endeless loop of alert in JavaScript like this:",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/origamium/lets-get-arrested/issues"
   },
-  "homepage": "https://github.com/origamium/lets-get-arrested#readme"
+  "homepage": "https://github.com/origamium/lets-get-arrested#readme",
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "babel-loader": "^8.0.5",
+    "babel-polyfill": "^6.26.0",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3"
+  }
 }
