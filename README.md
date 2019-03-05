@@ -1,3 +1,6 @@
+# arrest-jp-js
+zero-dependencies possible criminal package
+
 # Lets-get-arrested project
 
 In Japan, a schoolgirl was caught by the police for writing an endeless loop of alert in JavaScript like this:
