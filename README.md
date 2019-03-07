@@ -3,6 +3,12 @@ zero-dependencies possible criminal package
 
 # usage
 
+```
+npm install lets-get-arrested
+```
+
+after,
+
 ```js
 
 import arrest from 'lets-get-arrested';
