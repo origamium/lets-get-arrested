@@ -1,3 +1,4 @@
+[![npm version](https://badge.fury.io/js/lets-get-arrested.svg)](https://badge.fury.io/js/lets-get-arrested)
 # arrest-jp-js
 zero-dependencies possible criminal package
 
