@@ -3,7 +3,7 @@ const path = require('path')
 
 module.exports = {
     output: {
-        library: "lets-get-arrest",
+        library: "lets-get-arrested",
         libraryTarget: "umd"
     },
     module: {
