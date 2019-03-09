@@ -18,6 +18,30 @@ arrest(); // you been arrested!!
 
 ```
 
+or, original function...
+
+
+```js
+import * as arrest from 'lets-get-arrested';
+
+arrest.original();
+
+/*
+
+　∧_∧　ババババ
+（ ・ω・)=つ≡つ
+（っ ≡つ=つ
+`/　　)
+(ノΠＵ
+何回閉じても無駄ですよ～ww
+m9（＾Д＾）プギャー！！
+
+byソル (@0_Infinity_)
+
+*/
+
+```
+
 # Lets-get-arrested project
 
 In Japan, a schoolgirl was caught by the police for writing an endeless loop of alert in JavaScript like this:
