@@ -8,7 +8,7 @@ zero-dependencies possible criminal package
 ## 🎉v3 released
 New Features
 
-- Add Typescript
+- Add Typescript Support
 
 # usage
 
