@@ -1,8 +1,14 @@
 [![npm version](https://badge.fury.io/js/lets-get-arrested.svg)](https://badge.fury.io/js/lets-get-arrested)
 [![dependencies Status](https://david-dm.org/origamium/lets-get-arrested/status.svg)](https://david-dm.org/origamium/lets-get-arrested)  
 
-# arrest-jp-js
+
+# lets-get-arrested npm package
 zero-dependencies possible criminal package
+
+## 🎉v3 released
+New Features
+
+- Add Typescript
 
 # usage
 
