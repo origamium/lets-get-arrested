@@ -2,19 +2,23 @@
   "name": "lets-get-arrested",
   "version": "2.0.1",
   "description": "In Japan, a schoolgirl was caught by the police for writing an endeless loop of alert in JavaScript like this:",
-  "main": "./dist/main.js",
+  "main": "dist/bundle.js",
+  "typings": "./dist/typings/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --mode production"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/origamium/lets-get-arrested.git"
+    "url": "https://github.com/origamium/lets-get-arrested.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/origamium/lets-get-arrested/issues"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "homepage": "https://github.com/origamium/lets-get-arrested#readme",
   "devDependencies": {
