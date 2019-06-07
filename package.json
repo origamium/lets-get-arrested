@@ -1,6 +1,6 @@
 {
   "name": "lets-get-arrested",
-  "version": "2.0.1",
+  "version": "3.0.0",
   "description": "In Japan, a schoolgirl was caught by the police for writing an endeless loop of alert in JavaScript like this:",
   "main": "dist/bundle.js",
   "typings": "./dist/typings/index.d.ts",
